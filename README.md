@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/dmkrupin/dmkrupin)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/dmkrupin)](https://badges.pufler.dev)
+
