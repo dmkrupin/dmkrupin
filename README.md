@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://badges.pufler.dev/visits/dmkrupin/dmkrupin
+[![Visits Badge](https://badges.pufler.dev/visits/dmkrupin/dmkrupin)](https://badges.pufler.dev)
