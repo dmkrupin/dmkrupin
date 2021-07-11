@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/dmkrupin)](https://badges.pufler.dev)
 
 
-1753073-gllacy-31: [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
-[учебный проект 1](https://dmkrupin.github.io/1753073-gllacy-31/)
+[учебный проект Глэйси](https://dmkrupin.github.io/1753073-gllacy-31/) [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
