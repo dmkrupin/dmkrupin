@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Visits Badge](https://badges.pufler.dev/visits/dmkrupin/dmkrupin)](https://badges.pufler.dev)
 
+
+Портфолио:
+
 Учебный проект Глэйси:
 [gh-pages](https://dmkrupin.github.io/1753073-gllacy-31/) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-gllacy-31) 
