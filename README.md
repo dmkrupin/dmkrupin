@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Visits Badge](https://badges.pufler.dev/visits/dmkrupin/dmkrupin)](https://badges.pufler.dev)
-
+---
 
 Портфолио:
 
@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 [gh-pages](https://dmkrupin.github.io/1753073-gllacy-31/) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-gllacy-31) 
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
+
+Учебный проект Cat-Energy:
+[gh-pages](https://dmkrupin.github.io/1753073-cat-energy-23)
+[репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
