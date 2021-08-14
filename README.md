@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 [gh-pages](https://dmkrupin.github.io/1753073-cat-energy-23) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
+
+Тестовое задание для вакансии NKH Studio:
+[gh-pages](https://dmkrupin.github.io/nkh-studio-test-assignment/) -- 
+[репозиторий](https://github.com/dmkrupin/nkh-studio-test-assignment)
