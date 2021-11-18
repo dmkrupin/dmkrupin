@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
 
 Учебный проект Cat-Energy:
-[gh-pages](https://dmkrupin.github.io/1753073-cat-energy-23) -- 
+<!-- [посмотреть](#) --  -->
 [репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
 
 Тестовое задание для вакансии NKH Studio:
-[gh-pages](https://dmkrupin.github.io/nkh-studio-test-assignment/) -- 
+[посмотреть](https://dmkrupin.github.io/nkh-studio-test-assignment/) -- 
 [репозиторий](https://github.com/dmkrupin/nkh-studio-test-assignment)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment)
 
 Слайдер:
-[gh-pages](https://dmkrupin.github.io/misc-slider/) -- 
+[посмотреть](https://dmkrupin.github.io/misc-slider/) -- 
 [репозиторий](https://github.com/dmkrupin/misc-slider)
