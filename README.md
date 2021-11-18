@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 [gh-pages](https://dmkrupin.github.io/nkh-studio-test-assignment/) -- 
 [репозиторий](https://github.com/dmkrupin/nkh-studio-test-assignment)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment)
+
+Слайдер:
+[gh-pages](https://dmkrupin.github.io/misc-slider/) -- 
+[репозиторий](https://github.com/dmkrupin/misc-slider)
