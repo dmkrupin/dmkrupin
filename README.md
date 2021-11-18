@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
 
 Учебный проект Cat-Energy:
-<!-- [посмотреть](#) --  -->
 [репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
+
+Учебный проект Кексограм:
+[репозиторий](https://github.com/dmkrupin/1753073-kekstagram-24)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24)
 
 Тестовое задание для вакансии NKH Studio:
 [посмотреть](https://dmkrupin.github.io/nkh-studio-test-assignment/) -- 
