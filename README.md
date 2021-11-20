@@ -47,3 +47,6 @@ Drag n Drop:
 [посмотреть](https://dmkrupin.github.io/misc-dragndrop/) -- 
 [репозиторий](https://github.com/dmkrupin/misc-dragndrop)
 
+Кросс-слайдер:
+[посмотреть](https://dmkrupin.github.io/misc-cross-slider/) -- 
+[репозиторий](https://github.com/dmkrupin/misc-cross-slider)
