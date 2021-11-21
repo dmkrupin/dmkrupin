@@ -50,3 +50,7 @@ Drag n Drop:
 Кросс-слайдер:
 [посмотреть](https://dmkrupin.github.io/misc-cross-slider/) -- 
 [репозиторий](https://github.com/dmkrupin/misc-cross-slider)
+
+Рисовалка:
+[посмотреть](https://dmkrupin.github.io/misc-drawer-board/) --
+[репозиторий](https://github.com/dmkrupin/misc-drawer-board)
