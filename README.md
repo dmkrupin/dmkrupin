@@ -54,3 +54,8 @@ Drag n Drop:
 Рисовалка:
 [посмотреть](https://dmkrupin.github.io/misc-drawer-board/) --
 [репозиторий](https://github.com/dmkrupin/misc-drawer-board)
+
+Aim Trainer:
+[посмотреть](https://dmkrupin.github.io/misc-aim-trainer/) --
+[репозиторий](https://github.com/dmkrupin/misc-aim-trainer)
+
