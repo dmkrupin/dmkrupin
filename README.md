@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 [репозиторий](https://github.com/dmkrupin/nkh-studio-test-assignment)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment)
 
+Тестовое задание для вакансии QSOFT:
+[посмотреть](https://dmkrupin.github.io/qsoft-test-assignment/) -- 
+[репозиторий](https://github.com/dmkrupin/qsoft-test-assignment)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/qsoft-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/qsoft-test-assignment)
+
 UI элементы:
 ---
 
