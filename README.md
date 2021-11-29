@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
 
 Учебный проект Кексограм:
+[посмотреть](https://dmkrupin.github.io/1753073-kekstagram-24/) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-kekstagram-24)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24)
 
