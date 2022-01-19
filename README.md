@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 [репозиторий](https://github.com/dmkrupin/qsoft-test-assignment)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/qsoft-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/qsoft-test-assignment)
 
+Тестовое задание для вакансии Теремъ:
+[посмотреть](https://dmkrupin.github.io/terem-test-assignment/) -- 
+[репозиторий](https://github.com/dmkrupin/terem-test-assignment)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/terem-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/terem-test-assignment)
+
+
 UI элементы:
 ---
 
