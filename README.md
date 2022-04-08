@@ -18,35 +18,25 @@ Here are some ideas to get you started:
 Портфолио:
 ---
 
-Учебный проект Глэйси:
+Учебный проект "Глэйси":
 [посмотреть](https://dmkrupin.github.io/1753073-gllacy-31/) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-gllacy-31) 
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
 
-Учебный проект Cat-Energy:
+Учебный проект "Cat-Energy":
 [посмотреть](https://dmkrupin.github.io/1753073-cat-energy-23/) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
 
-Учебный проект Кексограм:
+Учебный проект "Кексограм":
 [посмотреть](https://dmkrupin.github.io/1753073-kekstagram-24/) -- 
 [репозиторий](https://github.com/dmkrupin/1753073-kekstagram-24)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24)
 
-Тестовое задание для вакансии NKH Studio:
-[посмотреть](https://dmkrupin.github.io/nkh-studio-test-assignment/) -- 
-[репозиторий](https://github.com/dmkrupin/nkh-studio-test-assignment)
-[![wakatime](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/nkh-studio-test-assignment)
-
-Тестовое задание для вакансии QSOFT:
-[посмотреть](https://dmkrupin.github.io/qsoft-test-assignment/) -- 
-[репозиторий](https://github.com/dmkrupin/qsoft-test-assignment)
-[![wakatime](https://wakatime.com/badge/github/dmkrupin/qsoft-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/qsoft-test-assignment)
-
-Тестовое задание для вакансии Теремъ:
-[посмотреть](https://dmkrupin.github.io/terem-test-assignment/) -- 
-[репозиторий](https://github.com/dmkrupin/terem-test-assignment)
-[![wakatime](https://wakatime.com/badge/github/dmkrupin/terem-test-assignment.svg)](https://wakatime.com/badge/github/dmkrupin/terem-test-assignment)
+Учебный проект "Круизы в Антарктику":
+[посмотреть](https://dmkrupin.github.io/accelerator--cruise-to-antarktika/) -- 
+[репозиторий](https://github.com/dmkrupin/accelerator--cruise-to-antarktika)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika)
 
 
 UI элементы:
