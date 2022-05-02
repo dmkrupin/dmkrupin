@@ -18,26 +18,32 @@ Here are some ideas to get you started:
 Портфолио:
 ---
 
-Учебный проект "Глэйси":
-[посмотреть](https://dmkrupin.github.io/1753073-gllacy-31/) -- 
-[репозиторий](https://github.com/dmkrupin/1753073-gllacy-31) 
-[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
+Проект Акселератора "Смарт Девайс":
+[посмотреть](https://dmkrupin.github.io/accelerator--smart-device/) -- 
+[репозиторий](https://github.com/dmkrupin/accelerator--smart-device)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--smart-device.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--smart-device)
 
-Учебный проект "Cat-Energy":
-[посмотреть](https://dmkrupin.github.io/1753073-cat-energy-23/) -- 
-[репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
-[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
-
-Учебный проект "Кексограм":
-[посмотреть](https://dmkrupin.github.io/1753073-kekstagram-24/) -- 
-[репозиторий](https://github.com/dmkrupin/1753073-kekstagram-24)
-[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24)
-
-Учебный проект "Круизы в Антарктику":
+Проект Акселератора "Круизы в Антарктику":
 [посмотреть](https://dmkrupin.github.io/accelerator--cruise-to-antarktika/) -- 
 [репозиторий](https://github.com/dmkrupin/accelerator--cruise-to-antarktika)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika)
 
+---
+
+Учебный проект "Кексограм" (Javascript):
+[посмотреть](https://dmkrupin.github.io/1753073-kekstagram-24/) -- 
+[репозиторий](https://github.com/dmkrupin/1753073-kekstagram-24)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-kekstagram-24)
+
+Учебный проект "Cat-Energy" (Адаптив, gulp):
+[посмотреть](https://dmkrupin.github.io/1753073-cat-energy-23/) -- 
+[репозиторий](https://github.com/dmkrupin/1753073-cat-energy-23)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-cat-energy-23)
+
+Учебный проект "Глэйси" (Flexbox, Grid):
+[посмотреть](https://dmkrupin.github.io/1753073-gllacy-31/) -- 
+[репозиторий](https://github.com/dmkrupin/1753073-gllacy-31) 
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
 
 UI элементы:
 ---
