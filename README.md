@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 
 Портфолио:
 ---
+Проект Акселератора "Фитнес-центр" (lvl 3):
+[посмотреть](https://dmkrupin.github.io/accelerator--fitness-center/) -- 
+[репозиторий](https://github.com/dmkrupin/accelerator--fitness-center)
+[![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--fitness-center.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--fitness-center)
 
-Проект Акселератора "Смарт Девайс":
+Проект Акселератора "Смарт Девайс" (lvl 2):
 [посмотреть](https://dmkrupin.github.io/accelerator--smart-device/) -- 
 [репозиторий](https://github.com/dmkrupin/accelerator--smart-device)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--smart-device.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--smart-device)
 
-Проект Акселератора "Круизы в Антарктику":
+Проект Акселератора "Круизы в Антарктику" (lvl 1):
 [посмотреть](https://dmkrupin.github.io/accelerator--cruise-to-antarktika/) -- 
 [репозиторий](https://github.com/dmkrupin/accelerator--cruise-to-antarktika)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika)
