@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Портфолио:
 ---
-Проект Акселератора "Фитнес-центр" (lvl 3):
+Проект Акселератора "Фитнес-центр" (lvl 3) (deploy issue):
 [посмотреть](https://dmkrupin.github.io/accelerator--fitness-center/) -- 
 [репозиторий](https://github.com/dmkrupin/accelerator--fitness-center)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--fitness-center.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--fitness-center)
