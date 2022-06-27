@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Портфолио:
----
+# Мои работы
+
+## Коммерческие проекты:
+ - [https://sokratapp.ru/](https://sokratapp.ru/)
+ 
+## Учебные проекты
 Проект Акселератора "Фитнес-центр" (lvl 3):
 [посмотреть](https://dmkrupin.github.io/accelerator--fitness-center/) -- 
 [репозиторий](https://github.com/dmkrupin/accelerator--fitness-center)
@@ -31,8 +35,6 @@ Here are some ideas to get you started:
 [посмотреть](https://dmkrupin.github.io/accelerator--cruise-to-antarktika/) -- 
 [репозиторий](https://github.com/dmkrupin/accelerator--cruise-to-antarktika)
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika.svg)](https://wakatime.com/badge/github/dmkrupin/accelerator--cruise-to-antarktika)
-
----
 
 Учебный проект "Кексограм" (Javascript):
 [посмотреть](https://dmkrupin.github.io/1753073-kekstagram-24/) -- 
@@ -49,8 +51,7 @@ Here are some ideas to get you started:
 [репозиторий](https://github.com/dmkrupin/1753073-gllacy-31) 
 [![wakatime](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31.svg)](https://wakatime.com/badge/github/dmkrupin/1753073-gllacy-31)
 
-UI элементы:
----
+## UI элементы:
 
 Слайдер:
 [посмотреть](https://dmkrupin.github.io/misc-slider/) -- 
